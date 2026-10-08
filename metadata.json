@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Tập Thông Minh",
+  "description": "Nền tảng học tập số thông minh giúp học sinh ôn tập kiến thức cốt lõi, luyện tập câu hỏi từ dễ đến khó và giáo viên dễ dàng biên soạn, quản lý bài học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
